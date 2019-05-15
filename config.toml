@@ -16,11 +16,11 @@ theme = "airspace-hugo"
     [[menu.header]]
       weight = 3
       name = "Belle's Blog"
-      url = "/belleblog"
+      url = "/blog"
     [[menu.header]]
       weight = 4
       name = "Customers' Feedback"
-      url = "/feedback"
+      url = "/service"
     [[menu.header]]
       weight = 5
       name = "Contact"
@@ -49,18 +49,18 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "A game changing <br> resume design"
-    subtitle = "I want you to seize the chance toward your unlimited future."
+    title = "貝兒簡歷 <br> Belle CV Consulting"
+    subtitle = "深入瞭解您的需求<br>最個人化的簡歷編輯服務<br>每一份簡歷，都是一位客戶的精彩生命故事！"
     bgImage = "img/starynight.jpg"
-    btnText = "Discover Our Projects"
+    btnText = "看更多我們的服務 <3"
     url = "#"
 
   [params.wrapper]
     enable = true
     image = "img/london.jpg"
-    title = "About Me"
-    italic = "Please do not have any bias before you have full picture about any topic."
-    paragraph = "I am a free lencer who is enthusiastic at career consulting."
+    title = "What we offered"
+    italic = "貝兒簡歷顧問   提供個人化的簡歷/自傳撰寫、修編、翻譯、面試諮詢等服務"
+    paragraph = "找工作、走學術，</br><br><br />想讓您的簡歷/自傳更完美，<br>突出個人專業、專精和歷來成就，<br>擁有符合職位的排版與風格，使面試官一目瞭然——<br>貝兒簡歷，提供想讓簡歷更好的您們，最符合個人需求的服務！&#09在貝兒，我們相信，每份簡歷都代表著一位活生生的人們tab2我們希望客戶們能藉由簡歷，呈現出space4tab6最好的自己"
 
   [params.blog]
     enable = true
@@ -69,9 +69,9 @@ theme = "airspace-hugo"
 
   [params.feature]
     enable = true
-    title = "I believe in you"
+    title = ""
     bgImage = "img/ibelieve.jpg"
-    content = "You can do this."
+    content = "在貝兒，我們相信，每份簡歷都代表著一位活生生的人們2tabs我們希望客戶們能藉由簡歷，呈現出4spaces6tabs最好的自己"
     #[params.feature.button]
     #  caption = "View Works"
     #  url = "#"
@@ -97,8 +97,9 @@ theme = "airspace-hugo"
   [params.call]
     enable = true
     bgImage = "img/call-to-action-bg.jpg"
-    title = "I am looking forward that you reach out to me."
-    paragraph = "email: sendurcvtobelle@gmail.com"
-    [params.call.button]
-      url = "https://www.businessweekly.com.tw/article.aspx?id=11255&type=Blog"
-      text = "yeah"
+    title = "Contact Belle,"
+    paragraph = "email: SendUrCVtoBelle@gmail.com<br>任何需求、問題<br>都歡迎和我們聯繫<br>Belle CV Consulting, 期待您的來信"
+
+    #[params.call.button]
+    #  url = "https://www.businessweekly.com.tw/article.aspx?id=11255&type=Blog"
+    #  text = "yeah"
